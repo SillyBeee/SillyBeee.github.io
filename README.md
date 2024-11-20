@@ -1,0 +1,1 @@
+这是[我的静态博客](https://sillybeee.github.io)基于[hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora)搭建，托管至github pages,会在上面写一点学习笔记和工具使用方法作为资料的存储库.:smile:
